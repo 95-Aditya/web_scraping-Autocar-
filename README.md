@@ -1,1 +1,2 @@
-# web_scraping-Autocar-
+# Web Scraping (Autocar)
+This repository is about webscraping a website using beautiful soup(from bs4). I have done this entire scraping project in Jupyter NoteBook. I have done web scraping on Autocar website. Autocar is known for its reviews on cars and bikes. I have considered webpage of cars with a budget of 5-10 lakh for this mini project. In this project we will be using requests(for permission from the website), beautiful soup (for getting the entire webpage content) and some methods from beautiful soup like find all , get text.  
